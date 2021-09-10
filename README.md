@@ -5,6 +5,7 @@
 - 😎 Getting good at C++
 - 🎹 I also play the piano
 - 🗿 I'm from a funny country at the center of Europe
+- ☘ People say that Rust is cool. Maybe I'll give it a try!
 
 <br />
 
