@@ -24,6 +24,6 @@
 <img align="left" alt="TypeScript" width="26px" src="https://camo.githubusercontent.com/5c469f960af5ff1c614f4c749099933c9efeddd8c01882d6f1ef3316bbe9acc0/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f747970657363726970746c616e672f747970657363726970746c616e672d69636f6e2e737667">
 <img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
 <img align="left" alt="C#" width="26px" src="https://cdn.cdnlogo.com/logos/c/27/c.svg" />
-<img align="left" alt="Java" width="26px" src="https://upload.wikimedia.org/wikipedia/de/e/e1/Java-Logo.svg" />
+<img align="left" alt="Java" width="26px" src="https://cdn.cdnlogo.com/logos/j/2/java.svg" />
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
 
