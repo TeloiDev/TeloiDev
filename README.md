@@ -2,10 +2,9 @@
 
 ## Coding for fun when I'm bored
 - 🔴 I want to make coding videos soon!
-- 😎 Getting good at C++
+- 🧊 I don't care if you do OOP or FP. I prefer aproach of "whatever gets the job done"
 - 🎹 I also play the piano
 - 🗿 I'm from a funny country at the center of Europe
-- ☘ People say that Rust is cool. Maybe I'll give it a try!
 <br/>
 
 ## Currently Learning:
